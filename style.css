@@ -3,6 +3,7 @@ div {
     width: 100px;
     background-color: red;
     animation-name: example;
+    animation-delay: 2s;
     animation-duration: 4s;
     animation-iteration-count: infinite;
     position: relative;
